@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ornicar/chessground/master/screenshot/3d.png" width=512 height=512 alt="Chessground in 3D mode" />
 
-**Chessground** is the opensource chess UI developed for [lichess.org](http://lichess.org).
+**Chdddddessground** is the opensource chess UI developed for [lichess.org](http://lichess.org).
 
 It targets modern browsers, as well as mobile development using Cordova.
 
